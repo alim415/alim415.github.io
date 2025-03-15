@@ -2,6 +2,7 @@
 layout: book-shelf
 title: bookshelf
 permalink: /books/
+published: false  # Add this line to hide the page
 nav: false
 collection: books
 ---
