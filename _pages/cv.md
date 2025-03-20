@@ -1,5 +1,5 @@
 ---
-layout: CV
+layout: cv
 permalink: /cv/
 published: false  # Add this line to hide the page
 title: CV
