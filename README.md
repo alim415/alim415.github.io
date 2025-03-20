@@ -20,9 +20,11 @@ Currently, there are four sections "About", "Research", "CV" and "Teaching". The
 - Updating the `Teaching` page
   - Currently nothing there
   - Putting the texts in [_pages/teaching.md](./_pages/teaching.md)
+  - 
 **Adding a section**
 - By adding a `.md` file in the [_pages](./_pages) folder.
 - You can copy and paste [_pages/cv.md](./_pages/cv.md) file as a template.
+
 **Publish/Unpublish a section**
 - You can try to temporarily hide one section by adding "published: false" under the "permanent link" line in the corresponding .md file. 
 
