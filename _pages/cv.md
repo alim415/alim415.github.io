@@ -1,7 +1,6 @@
 ---
-layout: cv
+layout:page
 permalink: /cv/
-published: false  # Add this line to hide the page
 title: CV
 nav: true
 nav_order: 5
