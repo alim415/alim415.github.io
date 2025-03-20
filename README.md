@@ -12,13 +12,14 @@ Currently, there are four sections "About", "Research", "CV" and "Teaching". The
     - An example TBA
     - Edit [_pages/research.md](./_pages/research.md)
   - Updating the resume page
-    - The nested pdf page is from an uploaded file due to dropbox access issue, and might not be up-to-date
-    - You can re-upload it in [./assets/pdf](./assets/pdf) folder
+    - The nested pdf page is from an uploaded file due to dropbox access issue, and **might not be up-to-date**.
+    - To upload the nested pdf, re-upload it into [./assets/pdf](./assets/pdf) folder
     - Edit [_pages/cv.md](./_pages/cv.md) to alter the texts showing up
   - Updating the teaching page
-    - Currently nothing there.
-    - Edit [_pages/teaching.md](./_pages/teaching.md)
-You can try to temporarily hide one section by adding "published: false" under the "permanent link" line in the corresponding .md file. 
+    - Currently nothing there
+    - Putting the texts in [_pages/teaching.md](./_pages/teaching.md)
+- Publish/Unpublish a section
+  - You can try to temporarily hide one section by adding "published: false" under the "permanent link" line in the corresponding .md file. 
 
 # al-folio
 
