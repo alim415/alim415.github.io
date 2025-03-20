@@ -5,7 +5,7 @@ permalink: /
 
 profile:
   align: right
-  image: Amylim_Headshot.jpg
+  image: amylim_headshot.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>R. Randall Rollins (R400C-26)</p>
