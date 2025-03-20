@@ -2,7 +2,10 @@
 
 - Updating these four section
 
-Currently, there are four sections "About", "Research", "CV" and "Teaching". They are under the [_pages](./_pages/) folder of the repositories.
+Currently, there are four sections "About", "Research", "CV" and "Teaching". 
+
+They are under the [_pages](./_pages/) folder of the repositories.
+
   - Updating the introduction page (`About`)
     - Edit [_pages/about.md](./_pages/about.md) file
     - Put texts as you want. Can customize using html syntax or add hyperlink for the text
