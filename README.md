@@ -2,17 +2,21 @@
 Currently, there are four sections "About", "Research", "CV" and "Teaching". They are under the [_pages](./_pages/) folder of the repositories.
 - Updating these four section
   - Updating the introduction page (About)
-    - Basically these are texts. Put texts as you want.
-    - You can try to customize the font, color using html syntax, and add hyperlink for the text.
-      - For example, `<span style="font-family: Arial, sans-serif;">This text is in Arial font.</span>` and `<span style="color: red;">This text is red.</span>` for font and color customizing.
+    - Put texts as you want. Can customize using html syntax or add hyperlink for the text
+      - `<span style="font-family: Arial, sans-serif;">This text is in Arial font.</span>`
+      - `<span style="color: red;">This text is red.</span>` for font and color customizing.
       - Adding hyperlink is easy. `[THE TEXT](THE HYPERLINK)` is a easy way to create it.
+      - AI can be helpful
     - Edit [_pages/about.md](./_pages/about.md)
   - Updating the research page
     - An example TBA
     - Edit [_pages/research.md](./_pages/research.md)
   - Updating the resume page
-    - Edit [_pages/cv.md](./_pages/cv.md)
+    - The nested pdf page is from an uploaded file due to dropbox access issue, and might not be up-to-date
+    - You can re-upload it in [./assets/pdf](./assets/pdf) folder
+    - Edit [_pages/cv.md](./_pages/cv.md) to alter the texts showing up
   - Updating the teaching page
+    - Currently nothing there.
     - Edit [_pages/teaching.md](./_pages/teaching.md)
 You can try to temporarily hide one section by adding "published: false" under the "permanent link" line in the corresponding .md file. 
 
