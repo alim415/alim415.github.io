@@ -1,21 +1,20 @@
 # Updating alim415.github.io
 Currently, there are four sections "About", "Research", "CV" and "Teaching". They are under the [_pages](./_pages/) folder of the repositories.
 - Updating these four section
-  - Updating the introduction page (About)
+  - Updating the introduction page (`About`)
+    - Edit [_pages/about.md](./_pages/about.md) file
     - Put texts as you want. Can customize using html syntax or add hyperlink for the text
-      - `<span style="font-family: Arial, sans-serif;">This text is in Arial font.</span>`
-      - `<span style="color: red;">This text is red.</span>` for font and color customizing.
+      - An example: `<span style="color: red;">This text is red.</span>` for color customizing.
       - Adding hyperlink is easy. `[THE TEXT](THE HYPERLINK)` is a easy way to create it.
-      - AI can be helpful
-    - Edit [_pages/about.md](./_pages/about.md)
-  - Updating the research page
-    - An example TBA
+      - AI can be helpful.
+  - Updating the `Research` page
     - Edit [_pages/research.md](./_pages/research.md)
-  - Updating the resume page
-    - The nested pdf page is from an uploaded file due to dropbox access issue, and **might not be up-to-date**.
-    - To upload the nested pdf, re-upload it into [./assets/pdf](./assets/pdf) folder
-    - Edit [_pages/cv.md](./_pages/cv.md) to alter the texts showing up
-  - Updating the teaching page
+    - An example TBA
+  - Updating the `CV` page
+    - Edit [_pages/cv.md](./_pages/cv.md) to alter the texts
+    - The nested pdf page is from an uploaded file due to dropbox access issue, thus **might not be up-to-date**.
+    - To update the pdf that is nested into the page, re-upload it into [./assets/pdf](./assets/pdf) folder
+  - Updating the `Teaching` page
     - Currently nothing there
     - Putting the texts in [_pages/teaching.md](./_pages/teaching.md)
 - Publish/Unpublish a section
