@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "My CV can be seen [here](https://www.dropbox.com/scl/fi/ldshi3v0paj0mdan7zibd/Lim_2024_no_ref.pdf?rlkey=o67s5llf9hbfw1lwblle9vgc6&amp;st=8ocpssrm&amp;dl=0).",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
