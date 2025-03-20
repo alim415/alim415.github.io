@@ -16,7 +16,7 @@ Currently, there are four sections "About", "Research", "CV" and "Teaching". The
 - Updating the `CV` page
   - Edit [_pages/cv.md](./_pages/cv.md) to alter the texts
   - The nested pdf page is from an uploaded file due to dropbox access issue, thus **might not be up-to-date**.
-  - To update the pdf that is nested into the page, re-upload it into [./assets/pdf](./assets/pdf) folder
+  - To update the pdf that is nested into the page, re-upload it into [./assets/pdf](./assets/pdf) folder and rename it `amy_lim.pdf` (or update the [_pages/cv.md](./_pages/cv.md) of the file path it will be directed to)
 - Updating the `Teaching` page
   - Currently nothing there
   - Putting the texts in [_pages/teaching.md](./_pages/teaching.md)
