@@ -1,3 +1,12 @@
+# Updating alim415.github.io
+- Updating the introduction page (about)
+  - Edit [_pages/about.md](./_pages/about.md)
+- Updating the research page
+  - Edit [_pages/research.md](./_pages/research.md)
+- Updating the teaching page
+  - Edit [_pages/teaching.md](./_pages/teaching.md)
+
+
 # al-folio
 
 <div align="center">
