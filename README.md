@@ -6,17 +6,17 @@ Currently, there are four sections "About", "Research", "CV" and "Teaching". The
 
 - Updating the introduction page (`About`)
   - Edit [_pages/about.md](./_pages/about.md) file
-  - Put texts as you want. Can customize using html syntax or add hyperlink for the text
+  - Put texts as you want. Can customize using HTML syntax or add hyperlinks for the text
     - An example: `<span style="color: red;">This text is red.</span>` for color customizing.
-    - Adding hyperlink is easy. `[THE TEXT](THE HYPERLINK)` is a easy way to create it.
+    - Adding hyperlinks is easy. `[THE TEXT](THE HYPERLINK)` is an easy way to create it.
     - AI can be helpful.
 - Updating the `Research` page
   - Edit [_pages/research.md](./_pages/research.md)
-  - An example TBA
+  - Can customize using AI
 - Updating the `CV` page
   - Edit [_pages/cv.md](./_pages/cv.md) to alter the texts
-  - The nested pdf page is from an uploaded file due to dropbox access issue, thus **might not be up-to-date**.
-  - To update the pdf that is nested into the page, re-upload it into [./assets/pdf](./assets/pdf) folder and rename it `amy_lim.pdf` (or update the [_pages/cv.md](./_pages/cv.md) of the file path it will be directed to)
+  - The nested pdf page is from an uploaded file due to the CV's Dropbox access, thus **might not be up-to-date**.
+  - To update the pdf that is nested into the page, re-upload it into [assets/pdf](./assets/pdf) folder and rename it `amy_lim.pdf` (or update the [_pages/cv.md](./_pages/cv.md) of the file path it will be directed to)
 - Updating the `Teaching` page
   - Currently nothing there
   - Putting the texts in [_pages/teaching.md](./_pages/teaching.md)
@@ -26,7 +26,7 @@ Currently, there are four sections "About", "Research", "CV" and "Teaching". The
 - You can copy and paste [_pages/cv.md](./_pages/cv.md) file as a template.
 
 **Publish/Unpublish a section**
-- You can try to temporarily hide one section by adding another line `published: false` under the "permanent link" line in the corresponding .md file. 
+- You can try to temporarily hide one section by adding another line `published: false` under the "permanent link" line in the corresponding `.md` file. 
 
 # al-folio
 
