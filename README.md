@@ -15,8 +15,8 @@ Currently, there are four sections "About", "Research", "CV" and "Teaching". The
   - Can customize using AI
 - Updating the `CV` page
   - Edit [_pages/cv.md](./_pages/cv.md) to alter the texts
-  - The nested pdf page is from an uploaded file due to the CV's Dropbox access, thus **might not be up-to-date**.
-  - To update the pdf that is nested into the page, re-upload it into [assets/pdf](./assets/pdf) folder and rename it `amy_lim.pdf` (or update the [_pages/cv.md](./_pages/cv.md) of the file path it will be directed to)
+  - The nested pdf page is from an uploaded file due to the CV's Dropbox access issue, thus **might not be up-to-date**.
+  - To update the pdf that is nested into the page, re-upload it into [assets/pdf](./assets/pdf) folder and rename it `amy_lim.pdf` (since the nested pdf is set to show the file named `amy_lim.pdf`). Check the [_pages/cv.md](./_pages/cv.md) and you can see why.
 - Updating the `Teaching` page
   - Currently nothing there
   - Putting the texts in [_pages/teaching.md](./_pages/teaching.md)
