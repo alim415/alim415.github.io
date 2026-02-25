@@ -35,9 +35,9 @@ Put your address / P.O. box / other info right below your picture. You can also 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 -->
 
-I am a Ph.D. candidate in Economics at [Emory University](https://economics.emory.edu/people/doctoral-students/lim-amy.html), specializing in labor economics, applied microeconomics, and early childhood education policy. My research explores the intersection of childcare markets, regulation, and labor dynamics, with a particular focus on how policy changes impact provider supply, parental demand, and workforce outcomes. I use both reduced-form and structural modeling approaches to analyze these issues, leveraging a rich dataset that spans multiple years and provider types. 
+I am a Ph.D. candidate in Economics at [Emory University](https://economics.emory.edu/people/doctoral-students/lim-amy.html), specializing in labor economics, applied microeconomics, and early childhood education policy. My research explores the intersection of childcare markets, regulation, and labor dynamics, with a particular focus on how policy changes impact provider supply, parental demand, and workforce outcomes. 
 
-As a research assistant for the Atlanta Research Data Center (ARDC), I have been granted Special Sworn Status to work with restricted-access federal microdata and support other researchers. I have direct experience analyzing a variety of large-scale Census products, including but not limited to, the Longitudinal Employer-Household Dynamics (LEHD) program, the Current Population Survey (CPS), the American Community Survey (ACS), and Decennial Census full counts.
+Starting August 2026, I willjoin the Stanford Graduate School of Education as a Postdoctoral Scholar under Professor [Katharine Sadowsk](https://kcsadow.github.io/website/).
 
 Outside of research, I enjoy open-water swimming and running. When I’m not working with data or writing, you can usually find me training for my next marathon or searching for the best bakeries in town.
 
