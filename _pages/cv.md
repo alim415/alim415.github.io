@@ -13,8 +13,9 @@ My CV can be seen [here](https://www.dropbox.com/scl/fi/1fau9vct2qv7su1sgks5q/Li
 <iframe
   src="{{ '/assets/pdf/amy_cv.pdf' | relative_url }}"
   width="100%"
-  height="600px"
+  height="800px"
   style="border: none;"
 >
-  Your browser does not support PDFs. Please download the PDF to view it: <a href="{{ 'assets/pdf/amy_cv.pdf' | relative_url }}">Download PDF</a>.
+  Your browser does not support PDFs. Please download the PDF to view it:
+  <a href="{{ '/assets/pdf/amy_cv.pdf' | relative_url }}">Download PDF</a>.
 </iframe>
