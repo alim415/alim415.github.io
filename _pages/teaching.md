@@ -7,6 +7,6 @@ nav: true
 nav_order: 6
 ---
 
-Econ 101: Principles of Microeconomics 
+## Econ 101: Principles of Microeconomics
 
-Spring 2025
+**Spring 2025**
