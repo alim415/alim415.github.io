@@ -41,4 +41,4 @@ Starting August 2026, I will join the Stanford Graduate School of Education as a
 
 Outside of research, I enjoy open-water swimming and running. When I’m not working with data or writing, you can usually find me [training](https://www.strava.com/athletes/62633893).
 
-For more details about my research, [CV](https://www.dropbox.com/scl/fi/ldshi3v0paj0mdan7zibd/Lim_2024_no_ref.pdf?rlkey=o67s5llf9hbfw1lwblle9vgc6&st=8ocpssrm&dl=0), and ongoing projects, please explore my site or reach out via email.
+For more details about my research, [CV](https://www.dropbox.com/scl/fi/1fau9vct2qv7su1sgks5q/Lim_2025.pdf?rlkey=ilnv1zvoff8shb7djm5g4ddq0&st=zupget9k&dl=0), and ongoing projects, please explore my site or reach out via email.
