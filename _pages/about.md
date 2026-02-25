@@ -37,7 +37,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 I am a Ph.D. candidate in Economics at [Emory University](https://economics.emory.edu/people/doctoral-students/lim-amy.html), specializing in labor economics, applied microeconomics, and early childhood education policy. My research explores the intersection of childcare markets, regulation, and labor dynamics, with a particular focus on how policy changes impact provider supply, parental demand, and workforce outcomes. 
 
-Starting August 2026, I will join the Stanford Graduate School of Education as a Postdoctoral Scholar under Professor [Katharine Sadowsk](https://kcsadow.github.io/website/).
+Starting August 2026, I will join the Stanford Graduate School of Education as a Postdoctoral Scholar under Professor [Katharine Sadowski](https://kcsadow.github.io/website/).
 
 Outside of research, I enjoy open-water swimming and running. When I’m not working with data or writing, you can usually find me training for my next marathon or searching for the best bakeries in town.
 
