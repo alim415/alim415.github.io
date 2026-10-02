@@ -7,10 +7,7 @@ profile:
   align: right
   image: amylim_headshot.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>R. Randall Rollins (R400C-26)</p>
-    <p>1516 Clifton Road, NE</p>
-    <p>Atlanta, GA, 30322</p>
+  more_info: 
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -35,9 +32,8 @@ Put your address / P.O. box / other info right below your picture. You can also 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 -->
 
-I am a Ph.D. candidate in Economics at [Emory University](https://economics.emory.edu/people/doctoral-students/lim-amy.html), specializing in labor economics, applied microeconomics, and early childhood education policy. My research explores the intersection of childcare markets, regulation, and labor dynamics, with a particular focus on how policy changes impact provider supply, parental demand, and workforce outcomes. 
+I am a postdoctoral scholar in the Graduate School of Education at [Stanford University](https://profiles.stanford.edu/amy-lim), specializing in labor economics, applied microeconomics, and early childhood education policy. My research explores the intersection of childcare markets, regulation, and labor dynamics, with a particular focus on how policy changes impact provider supply, parental demand, and workforce outcomes. 
 
-Starting August 2026, I will join the Stanford Graduate School of Education as a Postdoctoral Scholar under Professor [Katharine Sadowski](https://kcsadow.github.io/website/).
 
 Outside of research, I enjoy open-water swimming and running. When I’m not working with data or writing, you can usually find me [training](https://www.strava.com/athletes/62633893).
 
