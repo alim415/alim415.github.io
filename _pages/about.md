@@ -19,7 +19,7 @@ announcements:
 
 latest_posts:
   enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 3 # leave blank to include all the blog posts
 ---
 
@@ -34,7 +34,6 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 I am a postdoctoral scholar in the Graduate School of Education at [Stanford University](https://profiles.stanford.edu/amy-lim), specializing in labor economics, applied microeconomics, and early childhood education policy. My research explores the intersection of childcare markets, regulation, and labor dynamics, with a particular focus on how policy changes impact provider supply, parental demand, and workforce outcomes. 
 
-
 Outside of research, I enjoy open-water swimming and running. When I’m not working with data or writing, you can usually find me [training](https://www.strava.com/athletes/62633893).
 
-For more details about my research, [CV](https://www.dropbox.com/scl/fi/n78evy6fgkz4yy0o1iepf/Lim_2025.pdf?rlkey=ez0fp63gabgnl2f60ats3i9wo&st=g2s39u30&dl=0), and ongoing projects, please explore my site or reach out via email.
+For more details about my research, [CV](https://www.dropbox.com/scl/fi/n78evy6fgkz4yy0o1iepf/Lim_2025.pdf?rlkey=ez0fp63gabgnl2f60ats3i9wo&st=g2s39u30&dl=0), and ongoing projects, please explore my site or reach out via email: [alim415@stanford.edu](mailto:alim415@stanford.edu).
