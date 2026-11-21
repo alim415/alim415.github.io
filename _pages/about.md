@@ -37,4 +37,4 @@ I am a postdoctoral scholar in the Graduate School of Education at [Stanford Uni
 
 Outside of research, I enjoy open-water swimming and running. When I’m not working with data or writing, you can usually find me [training](https://www.strava.com/athletes/62633893).
 
-For more details about my research, [CV](https://www.dropbox.com/scl/fi/1fau9vct2qv7su1sgks5q/Lim_2025.pdf?rlkey=ilnv1zvoff8shb7djm5g4ddq0&st=zupget9k&dl=0), and ongoing projects, please explore my site or reach out via email.
+For more details about my research, [CV](https://www.dropbox.com/scl/fi/n78evy6fgkz4yy0o1iepf/Lim_2025.pdf?rlkey=ez0fp63gabgnl2f60ats3i9wo&st=g2s39u30&dl=0), and ongoing projects, please explore my site or reach out via email.
